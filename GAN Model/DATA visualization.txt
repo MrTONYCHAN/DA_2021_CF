@@ -1,0 +1,21 @@
+1 . plotting
+2 . numeric and categories
+3 . Bar plot
+4 . box plot
+5 . line plot
+6 . Scatter histograms
+
+duplicates data
+
+1. awbpieces
+2. chargebaleweight
+ 
+
+2--------------------------------------
+
+1. Statistics
+2. Random Variable
+3. Probability Distribution, Expected Value
+4. Discrete Probability , Distribution
+5. Bernoal Distribution
+6. population and sample
